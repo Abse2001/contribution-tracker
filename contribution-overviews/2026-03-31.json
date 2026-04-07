@@ -79,9 +79,9 @@
     "stars": ""
   },
   "Abse2001": {
-    "reviewsReceived": 7,
+    "reviewsReceived": 8,
     "rejectionsReceived": 0,
-    "approvalsReceived": 6,
+    "approvalsReceived": 7,
     "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 3,
@@ -103,23 +103,23 @@
     ],
     "approvalsGiven": 8,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
-    "prsMerged": 9,
+    "prsOpened": 12,
+    "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 5,
     "distinctPrsReviewedAsCodeOwner": 3,
-    "score": 27.5,
+    "score": 28.5,
     "stars": "⭐⭐",
     "major": 3,
     "minor": 2,
-    "tiny": 4
+    "tiny": 5
   },
   "AnasSarkiz": {
-    "reviewsReceived": 11,
+    "reviewsReceived": 12,
     "rejectionsReceived": 0,
-    "approvalsReceived": 11,
+    "approvalsReceived": 12,
     "staffReviewedPrs": 4,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 4,
@@ -153,20 +153,20 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 5,
     "rejectionsGiven": 0,
-    "prsOpened": 10,
-    "prsMerged": 10,
+    "prsOpened": 12,
+    "prsMerged": 12,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 5,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 26,
+    "score": 31,
     "stars": "⭐⭐",
     "major": 4,
     "minor": 3,
-    "tiny": 2
+    "tiny": 4
   },
   "Chronolapse411": {
     "reviewsReceived": 0,
@@ -214,14 +214,44 @@
     "score": 0,
     "stars": ""
   },
-  "MustafaMulla29": {
-    "reviewsReceived": 15,
+  "HueCodes": {
+    "reviewsReceived": 0,
     "rejectionsReceived": 0,
-    "approvalsReceived": 8,
-    "staffReviewedPrs": 6,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "MustafaMulla29": {
+    "reviewsReceived": 31,
+    "rejectionsReceived": 4,
+    "approvalsReceived": 9,
+    "staffReviewedPrs": 9,
+    "staffRejectionsReceived": 4,
     "staffApprovalsReceived": 7,
     "staffReviewedPrLinks": [
+      {
+        "number": 527,
+        "url": "https://github.com/tscircuit/circuit-json/pull/527",
+        "title": "Add inner_symbol_name, inner_symbol_align, and inner_symbol_size to schematic_component",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      },
       {
         "number": 625,
         "url": "https://github.com/tscircuit/props/pull/625",
@@ -230,11 +260,25 @@
         "staffRejections": 0
       },
       {
+        "number": 581,
+        "url": "https://github.com/tscircuit/footprinter/pull/581",
+        "title": "Fix courtyards for bga, quad, qfn,soic, etc",
+        "staffApprovals": 0,
+        "staffRejections": 2
+      },
+      {
         "number": 373,
         "url": "https://github.com/tscircuit/easyeda-converter/pull/373",
         "title": "fix: use dynamic imports for fs/promises and path, add browser exports for convertEasyEdaJsonToCircuitJson and EasyEdaJsonSchema",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 2113,
+        "url": "https://github.com/tscircuit/core/pull/2113",
+        "title": "Improve error message for KiCad-style footprint paths missing kicad: prefix",
+        "staffApprovals": 0,
+        "staffRejections": 1
       },
       {
         "number": 2095,
@@ -267,8 +311,8 @@
     ],
     "approvalsGiven": 5,
     "rejectionsGiven": 3,
-    "prsOpened": 16,
-    "prsMerged": 13,
+    "prsOpened": 23,
+    "prsMerged": 17,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -278,11 +322,11 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 27,
+    "score": 31,
     "stars": "⭐⭐",
     "major": 3,
     "minor": 4,
-    "tiny": 6
+    "tiny": 10
   },
   "PurdueDM": {
     "reviewsReceived": 0,
@@ -354,13 +398,34 @@
     "stars": ""
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 14,
+    "reviewsReceived": 18,
     "rejectionsReceived": 0,
-    "approvalsReceived": 7,
-    "staffReviewedPrs": 7,
+    "approvalsReceived": 16,
+    "staffReviewedPrs": 11,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 7,
+    "staffApprovalsReceived": 11,
     "staffReviewedPrLinks": [
+      {
+        "number": 2110,
+        "url": "https://github.com/tscircuit/core/pull/2110",
+        "title": "Fix anchor-based PCB placement when inflating grouped subcircuits",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 2105,
+        "url": "https://github.com/tscircuit/core/pull/2105",
+        "title": "Fix pinLabels key validation and clarify ambiguous alias PCB routing",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 2106,
+        "url": "https://github.com/tscircuit/core/pull/2106",
+        "title": "Add push button support to inflation",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 2100,
         "url": "https://github.com/tscircuit/core/pull/2100",
@@ -409,26 +474,33 @@
         "title": "Fix plated-hole conversion for multilayer SRJ obstacles",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 24,
+        "url": "https://github.com/tscircuit/high-density-repair02/pull/24",
+        "title": "Stop using grid bridge search for boundary trace moves; x2 speedup",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 3,
+    "approvalsGiven": 4,
     "rejectionsGiven": 0,
-    "prsOpened": 21,
-    "prsMerged": 12,
+    "prsOpened": 29,
+    "prsMerged": 21,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 3,
+    "distinctPrsReviewedNonCodeOwner": 4,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 46,
-    "stars": "⭐⭐",
-    "major": 10,
-    "minor": 1,
-    "tiny": 1
+    "score": 63,
+    "stars": "⭐⭐⭐",
+    "major": 14,
+    "minor": 4,
+    "tiny": 3
   },
   "Susanth2005": {
     "reviewsReceived": 3,
@@ -618,12 +690,12 @@
     "stars": ""
   },
   "mohan-bee": {
-    "reviewsReceived": 30,
-    "rejectionsReceived": 7,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 2,
+    "reviewsReceived": 34,
+    "rejectionsReceived": 8,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 3,
     "staffRejectionsReceived": 5,
-    "staffApprovalsReceived": 0,
+    "staffApprovalsReceived": 1,
     "staffReviewedPrLinks": [
       {
         "number": 2091,
@@ -631,6 +703,13 @@
         "title": "Fix Human readable IDs in autorouter diagnostics",
         "staffApprovals": 0,
         "staffRejections": 3
+      },
+      {
+        "number": 3089,
+        "url": "https://github.com/tscircuit/tscircuit.com/pull/3089",
+        "title": "Fix directory delete and nested file creation paths",
+        "staffApprovals": 1,
+        "staffRejections": 0
       },
       {
         "number": 193,
@@ -642,7 +721,7 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 6,
+    "prsOpened": 8,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -702,8 +781,8 @@
         "staffRejections": 1
       }
     ],
-    "approvalsGiven": 0,
-    "rejectionsGiven": 3,
+    "approvalsGiven": 1,
+    "rejectionsGiven": 4,
     "prsOpened": 13,
     "prsMerged": 10,
     "issuesCreated": 0,
@@ -752,20 +831,28 @@
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 36,
-    "rejectionsGiven": 8,
-    "prsOpened": 37,
-    "prsMerged": 21,
+    "approvalsGiven": 45,
+    "rejectionsGiven": 12,
+    "prsOpened": 45,
+    "prsMerged": 26,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 34,
-    "distinctPrsReviewedAsCodeOwner": 2,
-    "score": 52,
+    "distinctPrsReviewedNonCodeOwner": 41,
+    "distinctPrsReviewedAsCodeOwner": 3,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/footprinter",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "score": 63,
     "stars": "⭐⭐⭐",
-    "major": 9,
+    "major": 11,
     "minor": 3,
-    "tiny": 9
+    "tiny": 12
   },
   "sungdark": {
     "reviewsReceived": 3,
@@ -832,6 +919,7 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
+    "distinctPrsReviewedAsCodeOwner": 0,
     "score": 7,
     "stars": "⭐",
     "major": 0,
@@ -848,8 +936,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 133,
-    "prsMerged": 98,
+    "prsOpened": 158,
+    "prsMerged": 110,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -862,6 +950,6 @@
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 98
+    "tiny": 110
   }
 }
