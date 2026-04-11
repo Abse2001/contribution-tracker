@@ -1,6 +1,6 @@
 {
   "0hmX": {
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "rejectionsReceived": 0,
     "approvalsReceived": 0,
     "staffReviewedPrs": 0,
@@ -46,13 +46,20 @@
     "stars": ""
   },
   "Abse2001": {
-    "reviewsReceived": 6,
+    "reviewsReceived": 5,
     "rejectionsReceived": 0,
-    "approvalsReceived": 4,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 5,
+    "staffReviewedPrs": 4,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
+      {
+        "number": 733,
+        "url": "https://github.com/tscircuit/pcb-viewer/pull/733",
+        "title": "Group and collapse PCB errors in toolbar for scalable UX",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 729,
         "url": "https://github.com/tscircuit/pcb-viewer/pull/729",
@@ -78,7 +85,7 @@
     "approvalsGiven": 10,
     "rejectionsGiven": 0,
     "prsOpened": 8,
-    "prsMerged": 7,
+    "prsMerged": 8,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -96,9 +103,9 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 1,
-    "score": 27,
+    "score": 31,
     "stars": "⭐⭐",
-    "major": 3,
+    "major": 4,
     "minor": 1,
     "tiny": 3
   },
@@ -163,10 +170,33 @@
     "score": 0,
     "stars": ""
   },
+  "LuSrodri": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 7,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
   "MustafaMulla29": {
-    "reviewsReceived": 21,
+    "reviewsReceived": 22,
     "rejectionsReceived": 1,
-    "approvalsReceived": 17,
+    "approvalsReceived": 18,
     "staffReviewedPrs": 8,
     "staffRejectionsReceived": 1,
     "staffApprovalsReceived": 7,
@@ -228,14 +258,14 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 4,
     "rejectionsGiven": 1,
-    "prsOpened": 27,
-    "prsMerged": 23,
+    "prsOpened": 30,
+    "prsMerged": 26,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 4,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -245,7 +275,7 @@
     "stars": "⭐⭐",
     "major": 1,
     "minor": 6,
-    "tiny": 15
+    "tiny": 18
   },
   "Ojas2095": {
     "reviewsReceived": 0,
@@ -271,12 +301,12 @@
     "stars": ""
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 7,
+    "reviewsReceived": 9,
     "rejectionsReceived": 0,
-    "approvalsReceived": 6,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 8,
+    "staffReviewedPrs": 6,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 6,
     "staffReviewedPrLinks": [
       {
         "number": 528,
@@ -300,17 +330,31 @@
         "staffRejections": 0
       },
       {
+        "number": 872,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/872",
+        "title": "Integrate HighDensityForceImproveSolver",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
         "number": 854,
         "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/854",
         "title": "via clearance",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 3,
+        "url": "https://github.com/tscircuit/high-density-repair01/pull/3",
+        "title": "Working high-density force-improve solver implementation",
         "staffApprovals": 1,
         "staffRejections": 0
       }
     ],
     "approvalsGiven": 6,
     "rejectionsGiven": 0,
-    "prsOpened": 14,
-    "prsMerged": 6,
+    "prsOpened": 16,
+    "prsMerged": 7,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -320,9 +364,9 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 20,
+    "score": 24,
     "stars": "⭐⭐",
-    "major": 2,
+    "major": 3,
     "minor": 2,
     "tiny": 2
   },
@@ -349,8 +393,54 @@
     "score": 0,
     "stars": ""
   },
+  "bcornish1797": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
   "cccignore": {
     "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "dallylee": {
+    "reviewsReceived": 1,
     "rejectionsReceived": 0,
     "approvalsReceived": 0,
     "staffReviewedPrs": 0,
@@ -419,12 +509,12 @@
     "stars": ""
   },
   "mohan-bee": {
-    "reviewsReceived": 9,
+    "reviewsReceived": 11,
     "rejectionsReceived": 2,
-    "approvalsReceived": 3,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 6,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
       {
         "number": 21,
@@ -437,6 +527,13 @@
         "number": 374,
         "url": "https://github.com/tscircuit/easyeda-converter/pull/374",
         "title": "Preserve {NAME}  placeholder in generated silkscreen text",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 10,
+        "url": "https://github.com/tscircuit/circuit-json-to-bom-csv/pull/10",
+        "title": "Fix BOM export to include footprints from CAD components",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -457,8 +554,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 7,
-    "prsMerged": 3,
+    "prsOpened": 8,
+    "prsMerged": 5,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -468,33 +565,34 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 8,
-    "stars": "⭐",
+    "score": 11,
+    "stars": "⭐⭐",
     "major": 1,
-    "minor": 2,
-    "tiny": 0
+    "minor": 3,
+    "tiny": 1
   },
   "rushabhcodes": {
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
     "approvalsReceived": 1,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 0,
+    "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 1,
+    "prsOpened": 2,
     "prsMerged": 1,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 0,
+    "distinctPrsReviewedNonCodeOwner": 1,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 1,
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 2,
     "stars": "",
     "major": 0,
     "minor": 0,
@@ -508,41 +606,74 @@
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 30,
+    "approvalsGiven": 41,
     "rejectionsGiven": 3,
-    "prsOpened": 40,
-    "prsMerged": 25,
+    "prsOpened": 54,
+    "prsMerged": 32,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 18,
-    "distinctPrsReviewedAsCodeOwner": 9,
-    "score": 67,
+    "distinctPrsReviewedNonCodeOwner": 26,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/pcb-viewer",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "distinctPrsReviewedAsCodeOwner": 11,
+    "score": 71.5,
     "stars": "⭐⭐⭐",
-    "major": 12,
-    "minor": 5,
-    "tiny": 8
+    "major": 15,
+    "minor": 6,
+    "tiny": 11
   },
   "techmannih": {
-    "reviewsReceived": 11,
+    "reviewsReceived": 17,
     "rejectionsReceived": 1,
-    "approvalsReceived": 7,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 12,
+    "staffReviewedPrs": 4,
     "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 0,
+    "staffApprovalsReceived": 3,
     "staffReviewedPrLinks": [
+      {
+        "number": 376,
+        "url": "https://github.com/tscircuit/easyeda-converter/pull/376",
+        "title": "Handle EasyEDA undefined text tokens in single-letter shape parsing",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 194,
         "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/194",
         "title": "feat: centralize component metadata extraction and improve PCB/Schematic value population",
         "staffApprovals": 0,
         "staffRejections": 1
+      },
+      {
+        "number": 58,
+        "url": "https://github.com/tscircuit/kicad-to-circuit-json/pull/58",
+        "title": "fix: correctly align drill dimensions for oval plated holes",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 57,
+        "url": "https://github.com/tscircuit/kicad-to-circuit-json/pull/57",
+        "title": " fix: exclude hidden properties from silkscreen text generation ",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
-    "prsMerged": 6,
+    "prsOpened": 16,
+    "prsMerged": 11,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -565,31 +696,43 @@
         ]
       }
     ],
-    "score": 6,
-    "stars": "⭐",
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 14,
+    "stars": "⭐⭐",
     "major": 0,
-    "minor": 0,
-    "tiny": 6
+    "minor": 3,
+    "tiny": 8
   },
   "techmannih2": {
-    "reviewsReceived": 0,
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 2088,
+        "url": "https://github.com/tscircuit/core/pull/2088",
+        "title": "fix: correct courtyard rotation calculation for flipped components",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
-    "prsMerged": 0,
+    "prsOpened": 3,
+    "prsMerged": 1,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 0,
-    "stars": ""
+    "score": 2,
+    "stars": "",
+    "major": 0,
+    "minor": 1,
+    "tiny": 0
   },
   "tscircuitbot": {
     "reviewsReceived": 0,
@@ -601,8 +744,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 164,
-    "prsMerged": 107,
+    "prsOpened": 222,
+    "prsMerged": 152,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -611,11 +754,11 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 14,
+    "score": 14.5,
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 107
+    "tiny": 152
   },
   "ysdy823": {
     "reviewsReceived": 0,
