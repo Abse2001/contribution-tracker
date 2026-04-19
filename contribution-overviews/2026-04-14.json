@@ -98,17 +98,25 @@
     "tiny": 2
   },
   "AnasSarkiz": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 5,
     "rejectionsReceived": 0,
-    "approvalsReceived": 3,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 5,
+    "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 927,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/927",
+        "title": "update repair02 to Prevent Over-Translation and Enforce Consistent Trace-Clearance Regression Guards",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 8,
-    "prsMerged": 4,
+    "prsOpened": 11,
+    "prsMerged": 5,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -117,9 +125,9 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 12,
+    "score": 16,
     "stars": "⭐⭐",
-    "major": 2,
+    "major": 3,
     "minor": 2,
     "tiny": 0
   },
@@ -283,7 +291,7 @@
       }
     ],
     "approvalsGiven": 0,
-    "rejectionsGiven": 1,
+    "rejectionsGiven": 0,
     "prsOpened": 17,
     "prsMerged": 9,
     "issuesCreated": 0,
@@ -359,24 +367,47 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 0,
     "prsOpened": 14,
     "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 27,
+    "score": 28,
     "stars": "⭐⭐",
     "major": 4,
     "minor": 4,
     "tiny": 1
+  },
+  "Varshik12": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
   },
   "Wong789": {
     "reviewsReceived": 2,
@@ -389,6 +420,29 @@
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
     "prsOpened": 4,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "duckyduckycode": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -425,27 +479,50 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 0,
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
-    "approvalsGiven": 1,
-    "rejectionsGiven": 0,
-    "prsOpened": 2,
-    "prsMerged": 1,
+    "staffApprovalsReceived": 2,
+    "staffReviewedPrLinks": [
+      {
+        "number": 550,
+        "url": "https://github.com/tscircuit/circuit-json/pull/550",
+        "title": "Add pcb_via_trace_clearance_error schema and tests",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 135,
+        "url": "https://github.com/tscircuit/checks/pull/135",
+        "title": "Add via-vs-trace clearance check and integrate into exports and runners",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
+    "approvalsGiven": 3,
+    "rejectionsGiven": 2,
+    "prsOpened": 11,
+    "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 0,
+    "distinctPrsReviewedNonCodeOwner": 2,
     "distinctPrsReviewedAsCodeOwner": 1,
-    "score": 3,
-    "stars": "",
-    "major": 0,
-    "minor": 1,
-    "tiny": 0
+    "reposOwned": [
+      {
+        "repo": "tscircuit/circuit-to-svg",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "score": 20,
+    "stars": "⭐⭐",
+    "major": 1,
+    "minor": 6,
+    "tiny": 3
   },
   "liufang88789-ui": {
     "reviewsReceived": 0,
@@ -480,7 +557,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 3,
+    "prsOpened": 4,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -494,12 +571,12 @@
     "stars": ""
   },
   "mohan-bee": {
-    "reviewsReceived": 6,
-    "rejectionsReceived": 0,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 3,
-    "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 3,
+    "reviewsReceived": 18,
+    "rejectionsReceived": 2,
+    "approvalsReceived": 7,
+    "staffReviewedPrs": 6,
+    "staffRejectionsReceived": 2,
+    "staffApprovalsReceived": 5,
     "staffReviewedPrLinks": [
       {
         "number": 537,
@@ -521,12 +598,33 @@
         "title": "Add DRC error when routed trace is thinner than requested",
         "staffApprovals": 1,
         "staffRejections": 1
+      },
+      {
+        "number": 3174,
+        "url": "https://github.com/tscircuit/tscircuit.com/pull/3174",
+        "title": "Add inline folder rename in file tree",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 533,
+        "url": "https://github.com/tscircuit/docs/pull/533",
+        "title": "Add tsci update doc",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      },
+      {
+        "number": 535,
+        "url": "https://github.com/tscircuit/docs/pull/535",
+        "title": "Update export doc",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 9,
-    "prsMerged": 4,
+    "prsOpened": 12,
+    "prsMerged": 5,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -536,9 +634,9 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 7,
-    "stars": "⭐",
-    "major": 0,
+    "score": 11,
+    "stars": "⭐⭐",
+    "major": 1,
     "minor": 3,
     "tiny": 1
   },
@@ -589,46 +687,70 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 17,
+    "reviewsReceived": 30,
     "rejectionsReceived": 0,
-    "approvalsReceived": 8,
-    "staffReviewedPrs": 0,
-    "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "approvalsReceived": 13,
+    "staffReviewedPrs": 2,
+    "staffRejectionsReceived": 1,
+    "staffApprovalsReceived": 2,
+    "staffReviewedPrLinks": [
+      {
+        "number": 543,
+        "url": "https://github.com/tscircuit/circuit-json/pull/543",
+        "title": "Add pcb_note_text.is_mirrored to support bottom-layer mirrored text",
+        "staffApprovals": 1,
+        "staffRejections": 1
+      },
+      {
+        "number": 232,
+        "url": "https://github.com/tscircuit/circuit-to-canvas/pull/232",
+        "title": "Auto-mirror bottom-layer pcb_note_text and add regression coverage",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 2,
     "rejectionsGiven": 4,
-    "prsOpened": 8,
-    "prsMerged": 6,
+    "prsOpened": 14,
+    "prsMerged": 11,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
+    "distinctPrsReviewedNonCodeOwner": 2,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 7,
-    "stars": "⭐",
-    "major": 0,
-    "minor": 0,
-    "tiny": 6
+    "score": 16,
+    "stars": "⭐⭐",
+    "major": 1,
+    "minor": 1,
+    "tiny": 9
   },
   "seveibar": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 6,
     "rejectionsReceived": 0,
     "approvalsReceived": 1,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 29,
-    "rejectionsGiven": 2,
-    "prsOpened": 25,
-    "prsMerged": 17,
+    "approvalsGiven": 37,
+    "rejectionsGiven": 3,
+    "prsOpened": 34,
+    "prsMerged": 23,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 24,
-    "distinctPrsReviewedAsCodeOwner": 4,
+    "distinctPrsReviewedNonCodeOwner": 29,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "reposOwned": [
+      {
+        "repo": "tscircuit/pcb-viewer",
+        "paths": [
+          "*"
+        ]
+      },
       {
         "repo": "tscircuit/footprinter",
         "paths": [
@@ -642,11 +764,12 @@
         ]
       }
     ],
-    "score": 45,
-    "stars": "⭐⭐",
-    "major": 7,
-    "minor": 6,
-    "tiny": 4
+    "distinctPrsReviewedAsCodeOwner": 5,
+    "score": 58,
+    "stars": "⭐⭐⭐",
+    "major": 9,
+    "minor": 7,
+    "tiny": 7
   },
   "shanimaury89-art": {
     "reviewsReceived": 0,
@@ -744,8 +867,42 @@
     "tiny": 2
   },
   "techmannih2": {
-    "reviewsReceived": 10,
+    "reviewsReceived": 9,
     "rejectionsReceived": 1,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 1,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 202,
+        "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/202",
+        "title": " feat(pcb): add default KiCad component reference and value fields ",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 3,
+    "prsMerged": 1,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 4,
+    "stars": "⭐",
+    "major": 1,
+    "minor": 0,
+    "tiny": 0
+  },
+  "thegreatalxx": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
     "approvalsReceived": 0,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
@@ -753,7 +910,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
+    "prsOpened": 4,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -776,8 +933,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 197,
-    "prsMerged": 146,
+    "prsOpened": 263,
+    "prsMerged": 199,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -790,6 +947,6 @@
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 146
+    "tiny": 199
   }
 }
