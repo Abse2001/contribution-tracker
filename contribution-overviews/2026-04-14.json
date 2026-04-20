@@ -1,6 +1,6 @@
 {
   "0hmX": {
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
     "approvalsReceived": 1,
     "staffReviewedPrs": 1,
@@ -17,8 +17,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 13,
-    "prsMerged": 5,
+    "prsOpened": 16,
+    "prsMerged": 6,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -27,11 +27,11 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 10,
-    "stars": "⭐",
+    "score": 11,
+    "stars": "⭐⭐",
     "major": 2,
     "minor": 0,
-    "tiny": 2
+    "tiny": 3
   },
   "Abse2001": {
     "reviewsReceived": 18,
@@ -70,14 +70,14 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 5,
+    "approvalsGiven": 7,
     "rejectionsGiven": 0,
     "prsOpened": 8,
     "prsMerged": 7,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -91,32 +91,24 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 4,
-    "score": 25,
+    "score": 27,
     "stars": "⭐⭐",
     "major": 4,
     "minor": 1,
     "tiny": 2
   },
   "AnasSarkiz": {
-    "reviewsReceived": 5,
+    "reviewsReceived": 8,
     "rejectionsReceived": 0,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 8,
+    "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
-    "staffReviewedPrLinks": [
-      {
-        "number": 927,
-        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/927",
-        "title": "update repair02 to Prevent Over-Translation and Enforce Consistent Trace-Clearance Regression Guards",
-        "staffApprovals": 1,
-        "staffRejections": 0
-      }
-    ],
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
-    "prsMerged": 5,
+    "prsOpened": 15,
+    "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -125,11 +117,11 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 16,
+    "score": 24,
     "stars": "⭐⭐",
-    "major": 3,
-    "minor": 2,
-    "tiny": 0
+    "major": 4,
+    "minor": 3,
+    "tiny": 2
   },
   "Angelebeats": {
     "reviewsReceived": 3,
@@ -141,7 +133,30 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 10,
+    "prsOpened": 11,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "BossChaos": {
+    "reviewsReceived": 1,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 2,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -386,6 +401,29 @@
     "minor": 4,
     "tiny": 1
   },
+  "Soulfoul": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
   "Varshik12": {
     "reviewsReceived": 0,
     "rejectionsReceived": 0,
@@ -419,7 +457,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 4,
+    "prsOpened": 6,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -479,12 +517,12 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 7,
     "rejectionsReceived": 0,
-    "approvalsReceived": 2,
-    "staffReviewedPrs": 2,
+    "approvalsReceived": 3,
+    "staffReviewedPrs": 3,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 2,
+    "staffApprovalsReceived": 3,
     "staffReviewedPrLinks": [
       {
         "number": 550,
@@ -499,16 +537,27 @@
         "title": "Add via-vs-trace clearance check and integrate into exports and runners",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 213,
+        "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/213",
+        "title": "Modify the default `net_settings` for the project",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 3,
+    "approvalsGiven": 4,
     "rejectionsGiven": 2,
-    "prsOpened": 11,
-    "prsMerged": 10,
+    "prsOpened": 23,
+    "prsMerged": 21,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 1,
     "reposOwned": [
       {
@@ -518,11 +567,11 @@
         ]
       }
     ],
-    "score": 20,
+    "score": 41,
     "stars": "⭐⭐",
-    "major": 1,
-    "minor": 6,
-    "tiny": 3
+    "major": 3,
+    "minor": 10,
+    "tiny": 8
   },
   "liufang88789-ui": {
     "reviewsReceived": 0,
@@ -687,7 +736,7 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 30,
+    "reviewsReceived": 31,
     "rejectionsReceived": 0,
     "approvalsReceived": 13,
     "staffReviewedPrs": 2,
@@ -725,21 +774,21 @@
     "tiny": 9
   },
   "seveibar": {
-    "reviewsReceived": 6,
+    "reviewsReceived": 8,
     "rejectionsReceived": 0,
     "approvalsReceived": 1,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 37,
+    "approvalsGiven": 38,
     "rejectionsGiven": 3,
-    "prsOpened": 34,
-    "prsMerged": 23,
+    "prsOpened": 53,
+    "prsMerged": 36,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 29,
+    "distinctPrsReviewedNonCodeOwner": 30,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -765,11 +814,11 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 5,
-    "score": 58,
+    "score": 77,
     "stars": "⭐⭐⭐",
-    "major": 9,
-    "minor": 7,
-    "tiny": 7
+    "major": 18,
+    "minor": 10,
+    "tiny": 8
   },
   "shanimaury89-art": {
     "reviewsReceived": 0,
@@ -867,7 +916,7 @@
     "tiny": 2
   },
   "techmannih2": {
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "rejectionsReceived": 1,
     "approvalsReceived": 0,
     "staffReviewedPrs": 1,
@@ -933,8 +982,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 263,
-    "prsMerged": 199,
+    "prsOpened": 346,
+    "prsMerged": 268,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -947,6 +996,6 @@
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 199
+    "tiny": 268
   }
 }
