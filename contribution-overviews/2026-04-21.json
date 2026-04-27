@@ -1,6 +1,6 @@
 {
   "0hmX": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 4,
     "rejectionsReceived": 0,
     "approvalsReceived": 2,
     "staffReviewedPrs": 2,
@@ -24,8 +24,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
-    "prsMerged": 5,
+    "prsOpened": 17,
+    "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -34,11 +34,11 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 9,
-    "stars": "⭐",
-    "major": 1,
+    "score": 18.5,
+    "stars": "⭐⭐",
+    "major": 3,
     "minor": 1,
-    "tiny": 3
+    "tiny": 5
   },
   "168062576-tech": {
     "reviewsReceived": 0,
@@ -51,6 +51,29 @@
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
     "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "64johnlee": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 7,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -88,8 +111,8 @@
     ],
     "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 12,
-    "prsMerged": 8,
+    "prsOpened": 15,
+    "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -103,11 +126,11 @@
         ]
       }
     ],
-    "score": 26,
+    "score": 27,
     "stars": "⭐⭐",
     "major": 5,
     "minor": 0,
-    "tiny": 3
+    "tiny": 4
   },
   "AnasSarkiz": {
     "reviewsReceived": 11,
@@ -230,7 +253,7 @@
     "score": 0,
     "stars": ""
   },
-  "MustafaMulla29": {
+  "MichaelSovereign": {
     "reviewsReceived": 0,
     "rejectionsReceived": 0,
     "approvalsReceived": 0,
@@ -238,17 +261,62 @@
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 1,
-    "rejectionsGiven": 1,
-    "prsOpened": 0,
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
-    "distinctPrsReviewedAsCodeOwner": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "score": 0,
     "stars": ""
+  },
+  "MustafaMulla29": {
+    "reviewsReceived": 5,
+    "rejectionsReceived": 1,
+    "approvalsReceived": 1,
+    "staffReviewedPrs": 2,
+    "staffRejectionsReceived": 1,
+    "staffApprovalsReceived": 2,
+    "staffReviewedPrLinks": [
+      {
+        "number": 27,
+        "url": "https://github.com/tscircuit/parts-engine/pull/27",
+        "title": "Add EasyEDA proxy support to JlcPcbPartsEngine and clean up engine API",
+        "staffApprovals": 2,
+        "staffRejections": 0
+      },
+      {
+        "number": 256,
+        "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/256",
+        "title": "Implement kicadSchematicScaleFactor to scale all schematic symbols and wiring in KiCad export",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      }
+    ],
+    "approvalsGiven": 2,
+    "rejectionsGiven": 0,
+    "prsOpened": 2,
+    "prsMerged": 1,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 2,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 3,
+    "stars": "",
+    "major": 0,
+    "minor": 1,
+    "tiny": 0
   },
   "Myc911": {
     "reviewsReceived": 0,
@@ -297,7 +365,7 @@
     "stars": ""
   },
   "Sang-it": {
-    "reviewsReceived": 15,
+    "reviewsReceived": 18,
     "rejectionsReceived": 1,
     "approvalsReceived": 4,
     "staffReviewedPrs": 1,
@@ -314,7 +382,7 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 12,
+    "prsOpened": 13,
     "prsMerged": 6,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -332,17 +400,24 @@
     "tiny": 5
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 11,
+    "reviewsReceived": 12,
     "rejectionsReceived": 0,
-    "approvalsReceived": 11,
-    "staffReviewedPrs": 8,
+    "approvalsReceived": 12,
+    "staffReviewedPrs": 9,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 8,
+    "staffApprovalsReceived": 9,
     "staffReviewedPrLinks": [
       {
         "number": 94,
         "url": "https://github.com/tscircuit/circuit-json-util/pull/94",
         "title": "Transform pcb_component insertion metadata in transformPCBElements",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 609,
+        "url": "https://github.com/tscircuit/footprinter/pull/609",
+        "title": "reverse polarity of the silkscreen in led components",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -398,8 +473,8 @@
     ],
     "approvalsGiven": 2,
     "rejectionsGiven": 0,
-    "prsOpened": 14,
-    "prsMerged": 11,
+    "prsOpened": 17,
+    "prsMerged": 14,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -409,10 +484,10 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 30,
+    "score": 34,
     "stars": "⭐⭐",
     "major": 4,
-    "minor": 5,
+    "minor": 7,
     "tiny": 2
   },
   "Wong789": {
@@ -484,6 +559,52 @@
     "score": 0,
     "stars": ""
   },
+  "bounty-bot-beep": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 2,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "carycooper777": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 4,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
   "emabarrera": {
     "reviewsReceived": 0,
     "rejectionsReceived": 0,
@@ -508,13 +629,20 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 11,
+    "reviewsReceived": 15,
     "rejectionsReceived": 0,
-    "approvalsReceived": 10,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 12,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 5,
     "staffReviewedPrLinks": [
+      {
+        "number": 385,
+        "url": "https://github.com/tscircuit/easyeda-converter/pull/385",
+        "title": "Add pill support for smtpad conversion and add borderRadius support to rect",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 2184,
         "url": "https://github.com/tscircuit/core/pull/2184",
@@ -546,8 +674,8 @@
     ],
     "approvalsGiven": 9,
     "rejectionsGiven": 1,
-    "prsOpened": 26,
-    "prsMerged": 21,
+    "prsOpened": 43,
+    "prsMerged": 34,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -561,19 +689,19 @@
         ]
       }
     ],
-    "score": 33,
+    "score": 47,
     "stars": "⭐⭐",
-    "major": 3,
-    "minor": 4,
-    "tiny": 13
+    "major": 6,
+    "minor": 5,
+    "tiny": 22
   },
   "mohan-bee": {
-    "reviewsReceived": 27,
-    "rejectionsReceived": 3,
-    "approvalsReceived": 10,
+    "reviewsReceived": 16,
+    "rejectionsReceived": 1,
+    "approvalsReceived": 11,
     "staffReviewedPrs": 4,
     "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 5,
     "staffReviewedPrLinks": [
       {
         "number": 3197,
@@ -593,7 +721,7 @@
         "number": 241,
         "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/241",
         "title": "Use manufacturer part number for simple chip schematic values",
-        "staffApprovals": 1,
+        "staffApprovals": 2,
         "staffRejections": 1
       },
       {
@@ -607,7 +735,7 @@
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
     "prsOpened": 10,
-    "prsMerged": 6,
+    "prsMerged": 7,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -617,10 +745,10 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 11,
+    "score": 13,
     "stars": "⭐⭐",
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "tiny": 3
   },
   "nehaaprasaad": {
@@ -747,6 +875,29 @@
     "stars": ""
   },
   "seveibar": {
+    "reviewsReceived": 1,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 1,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 54,
+    "rejectionsGiven": 2,
+    "prsOpened": 43,
+    "prsMerged": 28,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 47,
+    "distinctPrsReviewedAsCodeOwner": 5,
+    "score": 70,
+    "stars": "⭐⭐⭐",
+    "major": 13,
+    "minor": 7,
+    "tiny": 7
+  },
+  "solomonshalom": {
     "reviewsReceived": 0,
     "rejectionsReceived": 0,
     "approvalsReceived": 0,
@@ -754,20 +905,20 @@
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 50,
-    "rejectionsGiven": 2,
-    "prsOpened": 10,
-    "prsMerged": 8,
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 3,
+    "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 43,
-    "distinctPrsReviewedAsCodeOwner": 4,
-    "score": 28,
-    "stars": "⭐⭐",
-    "major": 6,
-    "minor": 1,
-    "tiny": 1
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
   },
   "techmannih": {
     "reviewsReceived": 13,
@@ -806,14 +957,14 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 0,
     "prsOpened": 11,
     "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
+    "distinctPrsReviewedNonCodeOwner": 2,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -869,8 +1020,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 293,
-    "prsMerged": 234,
+    "prsOpened": 360,
+    "prsMerged": 286,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -883,6 +1034,6 @@
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 234
+    "tiny": 286
   }
 }
