@@ -24,7 +24,7 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 17,
+    "prsOpened": 18,
     "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -64,16 +64,16 @@
     "stars": ""
   },
   "64johnlee": {
-    "reviewsReceived": 0,
+    "reviewsReceived": 1,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
+    "approvalsReceived": 1,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 7,
+    "prsOpened": 19,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -111,7 +111,7 @@
     ],
     "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 15,
+    "prsOpened": 16,
     "prsMerged": 9,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -131,6 +131,52 @@
     "major": 5,
     "minor": 0,
     "tiny": 4
+  },
+  "AgentGoose32": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "Akenne-dev": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 2,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
   },
   "AnasSarkiz": {
     "reviewsReceived": 11,
@@ -171,7 +217,7 @@
     ],
     "approvalsGiven": 4,
     "rejectionsGiven": 0,
-    "prsOpened": 14,
+    "prsOpened": 15,
     "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -195,6 +241,29 @@
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
     "prsOpened": 3,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "BossChaos": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -277,13 +346,20 @@
     "stars": ""
   },
   "MustafaMulla29": {
-    "reviewsReceived": 5,
-    "rejectionsReceived": 1,
-    "approvalsReceived": 1,
-    "staffReviewedPrs": 2,
-    "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 2,
+    "reviewsReceived": 15,
+    "rejectionsReceived": 2,
+    "approvalsReceived": 2,
+    "staffReviewedPrs": 3,
+    "staffRejectionsReceived": 2,
+    "staffApprovalsReceived": 3,
     "staffReviewedPrLinks": [
+      {
+        "number": 2523,
+        "url": "https://github.com/tscircuit/eval/pull/2523",
+        "title": "Add EasyEDA proxy config plumbing to web worker and browser USB-C connector proxy integration test",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      },
       {
         "number": 27,
         "url": "https://github.com/tscircuit/parts-engine/pull/27",
@@ -295,28 +371,28 @@
         "number": 256,
         "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/256",
         "title": "Implement kicadSchematicScaleFactor to scale all schematic symbols and wiring in KiCad export",
-        "staffApprovals": 0,
+        "staffApprovals": 1,
         "staffRejections": 1
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
-    "prsMerged": 1,
+    "prsOpened": 5,
+    "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 3,
-    "stars": "",
+    "score": 4,
+    "stars": "⭐",
     "major": 0,
     "minor": 1,
-    "tiny": 0
+    "tiny": 1
   },
   "Myc911": {
     "reviewsReceived": 0,
@@ -365,13 +441,27 @@
     "stars": ""
   },
   "Sang-it": {
-    "reviewsReceived": 18,
-    "rejectionsReceived": 1,
-    "approvalsReceived": 4,
-    "staffReviewedPrs": 1,
-    "staffRejectionsReceived": 1,
-    "staffApprovalsReceived": 0,
+    "reviewsReceived": 25,
+    "rejectionsReceived": 2,
+    "approvalsReceived": 6,
+    "staffReviewedPrs": 3,
+    "staffRejectionsReceived": 3,
+    "staffApprovalsReceived": 1,
     "staffReviewedPrLinks": [
+      {
+        "number": 2193,
+        "url": "https://github.com/tscircuit/core/pull/2193",
+        "title": "implement a fix for 45 degree rects",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      },
+      {
+        "number": 1047,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1047",
+        "title": "add approximating rects to srj  AutoroutingPipeline4",
+        "staffApprovals": 1,
+        "staffRejections": 1
+      },
       {
         "number": 209,
         "url": "https://github.com/tscircuit/schematic-trace-solver/pull/209",
@@ -382,8 +472,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 13,
-    "prsMerged": 6,
+    "prsOpened": 17,
+    "prsMerged": 8,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -393,19 +483,19 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 7,
-    "stars": "⭐",
-    "major": 0,
+    "score": 12,
+    "stars": "⭐⭐",
+    "major": 1,
     "minor": 1,
-    "tiny": 5
+    "tiny": 6
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 12,
+    "reviewsReceived": 14,
     "rejectionsReceived": 0,
-    "approvalsReceived": 12,
-    "staffReviewedPrs": 9,
+    "approvalsReceived": 14,
+    "staffReviewedPrs": 10,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 9,
+    "staffApprovalsReceived": 10,
     "staffReviewedPrLinks": [
       {
         "number": 94,
@@ -469,12 +559,19 @@
         "title": "Honor explicit via pad/hole dimensions across autorouters",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 2,
+        "url": "https://github.com/tscircuit/pcb-poly-hyper-graph/pull/2",
+        "title": "Color dataset debugger regions by layer availability",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
     "approvalsGiven": 2,
     "rejectionsGiven": 0,
-    "prsOpened": 17,
-    "prsMerged": 14,
+    "prsOpened": 20,
+    "prsMerged": 16,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -484,11 +581,11 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 34,
+    "score": 37,
     "stars": "⭐⭐",
     "major": 4,
-    "minor": 7,
-    "tiny": 2
+    "minor": 8,
+    "tiny": 3
   },
   "Wong789": {
     "reviewsReceived": 0,
@@ -582,29 +679,6 @@
     "score": 0,
     "stars": ""
   },
-  "carycooper777": {
-    "reviewsReceived": 0,
-    "rejectionsReceived": 0,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 0,
-    "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
-    "approvalsGiven": 0,
-    "rejectionsGiven": 0,
-    "prsOpened": 4,
-    "prsMerged": 0,
-    "issuesCreated": 0,
-    "bountiedIssuesCount": 0,
-    "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 0,
-    "discussionComments": 0,
-    "discussionNormalComments": 0,
-    "discussionGreatInformativeComments": 0,
-    "discussionIncredibleComments": 0,
-    "score": 0,
-    "stars": ""
-  },
   "emabarrera": {
     "reviewsReceived": 0,
     "rejectionsReceived": 0,
@@ -629,12 +703,12 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 15,
+    "reviewsReceived": 21,
     "rejectionsReceived": 0,
-    "approvalsReceived": 12,
-    "staffReviewedPrs": 5,
+    "approvalsReceived": 17,
+    "staffReviewedPrs": 10,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 5,
+    "staffApprovalsReceived": 10,
     "staffReviewedPrLinks": [
       {
         "number": 385,
@@ -670,16 +744,51 @@
         "title": "Use pcb_board DRC values and remove JLC specs dependency import",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 2515,
+        "url": "https://github.com/tscircuit/eval/pull/2515",
+        "title": "Prefer browser entrypoints when resolving node modules in the eval runtime",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1049,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1049",
+        "title": "Add the `traces` in srj as preview obstacles",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1042,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1042",
+        "title": "exclude the obstacles which are outside board outline and not connected to something, then recalculate the bounds",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1040,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1040",
+        "title": "fix: bug report 55 (simplifyPolygon points greater than 120)",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 111,
+        "url": "https://github.com/tscircuit/rectdiff/pull/111",
+        "title": "Increase the MAX_POLYGON_POINTS",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 9,
+    "approvalsGiven": 11,
     "rejectionsGiven": 1,
-    "prsOpened": 43,
-    "prsMerged": 34,
+    "prsOpened": 56,
+    "prsMerged": 45,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 7,
+    "distinctPrsReviewedNonCodeOwner": 9,
     "distinctPrsReviewedAsCodeOwner": 1,
     "reposOwned": [
       {
@@ -689,11 +798,11 @@
         ]
       }
     ],
-    "score": 47,
-    "stars": "⭐⭐",
-    "major": 6,
-    "minor": 5,
-    "tiny": 22
+    "score": 65,
+    "stars": "⭐⭐⭐",
+    "major": 9,
+    "minor": 8,
+    "tiny": 27
   },
   "mohan-bee": {
     "reviewsReceived": 16,
@@ -821,13 +930,20 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 12,
+    "reviewsReceived": 17,
     "rejectionsReceived": 0,
-    "approvalsReceived": 4,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 5,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
+    "staffApprovalsReceived": 2,
     "staffReviewedPrLinks": [
+      {
+        "number": 3277,
+        "url": "https://github.com/tscircuit/tscircuit.com/pull/3277",
+        "title": "fix: update home links to point to https://tcircuit.com/",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 3187,
         "url": "https://github.com/tscircuit/runframe/pull/3187",
@@ -838,18 +954,18 @@
     ],
     "approvalsGiven": 2,
     "rejectionsGiven": 1,
-    "prsOpened": 7,
-    "prsMerged": 7,
+    "prsOpened": 9,
+    "prsMerged": 8,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 2,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 11,
+    "score": 12,
     "stars": "⭐⭐",
     "major": 1,
     "minor": 0,
-    "tiny": 6
+    "tiny": 7
   },
   "selenaalpha77-sketch": {
     "reviewsReceived": 0,
@@ -861,7 +977,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 57,
+    "prsOpened": 62,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -882,20 +998,20 @@
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 54,
-    "rejectionsGiven": 2,
-    "prsOpened": 43,
-    "prsMerged": 28,
+    "approvalsGiven": 67,
+    "rejectionsGiven": 4,
+    "prsOpened": 45,
+    "prsMerged": 30,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 47,
+    "distinctPrsReviewedNonCodeOwner": 57,
     "distinctPrsReviewedAsCodeOwner": 5,
-    "score": 70,
+    "score": 72.5,
     "stars": "⭐⭐⭐",
     "major": 13,
-    "minor": 7,
-    "tiny": 7
+    "minor": 8,
+    "tiny": 8
   },
   "solomonshalom": {
     "reviewsReceived": 0,
@@ -921,17 +1037,24 @@
     "stars": ""
   },
   "techmannih": {
-    "reviewsReceived": 13,
+    "reviewsReceived": 21,
     "rejectionsReceived": 0,
-    "approvalsReceived": 10,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 15,
+    "staffReviewedPrs": 6,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 6,
     "staffReviewedPrLinks": [
       {
         "number": 2170,
         "url": "https://github.com/tscircuit/core/pull/2170",
         "title": "Add rectBorderRadius support to pill_hole_with_rect_pad plated holes",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1380,
+        "url": "https://github.com/tscircuit/svg.tscircuit.com/pull/1380",
+        "title": "Add regression coverage for STEP imports with parentheses in local file paths",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -950,6 +1073,13 @@
         "staffRejections": 0
       },
       {
+        "number": 66,
+        "url": "https://github.com/tscircuit/kicad-to-circuit-json/pull/66",
+        "title": "improve PCB footprint and graphic processing for handling the silkscreen, fabrication and courtyard",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
         "number": 62,
         "url": "https://github.com/tscircuit/kicad-to-circuit-json/pull/62",
         "title": "feat: Add support for pill_hole_with_rect_pad shape plated hole",
@@ -959,8 +1089,8 @@
     ],
     "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
-    "prsMerged": 9,
+    "prsOpened": 16,
+    "prsMerged": 12,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -970,11 +1100,11 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 15,
+    "score": 22,
     "stars": "⭐⭐",
-    "major": 0,
-    "minor": 5,
-    "tiny": 4
+    "major": 1,
+    "minor": 6,
+    "tiny": 5
   },
   "techmannih2": {
     "reviewsReceived": 3,
@@ -992,18 +1122,15 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 0,
+    "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
+    "prsOpened": 3,
     "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 0,
-    "discussionComments": 0,
-    "discussionNormalComments": 0,
-    "discussionGreatInformativeComments": 0,
-    "discussionIncredibleComments": 0,
+    "distinctPrsReviewedAsCodeOwner": 0,
     "score": 3,
     "stars": "",
     "major": 0,
@@ -1020,8 +1147,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 360,
-    "prsMerged": 286,
+    "prsOpened": 430,
+    "prsMerged": 343,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -1030,10 +1157,10 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 13.5,
+    "score": 14,
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 286
+    "tiny": 343
   }
 }
