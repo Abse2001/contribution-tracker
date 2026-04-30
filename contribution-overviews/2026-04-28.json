@@ -1,16 +1,24 @@
 {
   "0hmX": {
-    "reviewsReceived": 2,
+    "reviewsReceived": 3,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 1,
+    "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 113,
+        "url": "https://github.com/tscircuit/rectdiff/pull/113",
+        "title": "Promote sparse coverage into shared multilayer nodes",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 3,
-    "prsMerged": 0,
+    "prsOpened": 4,
+    "prsMerged": 1,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -19,8 +27,11 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 0,
-    "stars": ""
+    "score": 4,
+    "stars": "⭐",
+    "major": 1,
+    "minor": 0,
+    "tiny": 0
   },
   "0hmxbot": {
     "reviewsReceived": 0,
@@ -55,7 +66,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
+    "prsOpened": 11,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -69,23 +80,40 @@
     "stars": ""
   },
   "Abse2001": {
-    "reviewsReceived": 1,
+    "reviewsReceived": 6,
     "rejectionsReceived": 0,
-    "approvalsReceived": 1,
-    "staffReviewedPrs": 0,
+    "approvalsReceived": 5,
+    "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 158,
+        "url": "https://github.com/tscircuit/circuit-json-to-gltf/pull/158",
+        "title": "Fix edge-crossing PCB holes in board mesh rendering",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
     "approvalsGiven": 2,
     "rejectionsGiven": 0,
-    "prsOpened": 3,
-    "prsMerged": 3,
+    "prsOpened": 7,
+    "prsMerged": 5,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 2,
-    "distinctPrsReviewedAsCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "reposOwned": [
+      {
+        "repo": "tscircuit/3d-viewer",
+        "paths": [
+          "*"
+        ]
+      },
       {
         "repo": "tscircuit/circuit-to-canvas",
         "paths": [
@@ -93,16 +121,17 @@
         ]
       }
     ],
-    "score": 11,
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 13,
     "stars": "⭐⭐",
     "major": 2,
     "minor": 0,
-    "tiny": 1
+    "tiny": 3
   },
   "AnasSarkiz": {
-    "reviewsReceived": 4,
+    "reviewsReceived": 5,
     "rejectionsReceived": 0,
-    "approvalsReceived": 4,
+    "approvalsReceived": 5,
     "staffReviewedPrs": 1,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 1,
@@ -115,33 +144,40 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 1,
+    "approvalsGiven": 2,
     "rejectionsGiven": 0,
-    "prsOpened": 4,
-    "prsMerged": 3,
+    "prsOpened": 7,
+    "prsMerged": 6,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
+    "distinctPrsReviewedNonCodeOwner": 2,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 9,
-    "stars": "⭐",
-    "major": 1,
+    "score": 16,
+    "stars": "⭐⭐",
+    "major": 2,
     "minor": 2,
-    "tiny": 0
+    "tiny": 2
   },
   "MustafaMulla29": {
-    "reviewsReceived": 4,
+    "reviewsReceived": 11,
     "rejectionsReceived": 0,
-    "approvalsReceived": 3,
-    "staffReviewedPrs": 2,
+    "approvalsReceived": 5,
+    "staffReviewedPrs": 3,
     "staffRejectionsReceived": 2,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
+      {
+        "number": 3306,
+        "url": "https://github.com/tscircuit/tscircuit.com/pull/3306",
+        "title": "Add authorization header to the easyEdaProxyConfig",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 2523,
         "url": "https://github.com/tscircuit/eval/pull/2523",
@@ -157,33 +193,51 @@
         "staffRejections": 1
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 6,
-    "prsMerged": 6,
+    "prsOpened": 16,
+    "prsMerged": 13,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
     "distinctPrsReviewedNonCodeOwner": 1,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 10,
-    "stars": "⭐",
+    "score": 19,
+    "stars": "⭐⭐",
     "major": 0,
-    "minor": 3,
-    "tiny": 3
+    "minor": 5,
+    "tiny": 8
   },
   "Sang-it": {
-    "reviewsReceived": 4,
+    "reviewsReceived": 10,
     "rejectionsReceived": 0,
-    "approvalsReceived": 4,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 9,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 5,
     "staffReviewedPrLinks": [
       {
         "number": 2201,
         "url": "https://github.com/tscircuit/core/pull/2201",
         "title": "fix 45 degree rect fix",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 251,
+        "url": "https://github.com/tscircuit/schematic-trace-solver/pull/251",
+        "title": "add trace anchored net label overlap solver",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 248,
+        "url": "https://github.com/tscircuit/schematic-trace-solver/pull/248",
+        "title": "move VCC labels to the corner whenever feasible",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -204,8 +258,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 8,
-    "prsMerged": 5,
+    "prsOpened": 15,
+    "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -214,24 +268,31 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 13.5,
+    "score": 28.5,
     "stars": "⭐⭐",
-    "major": 3,
-    "minor": 0,
-    "tiny": 2
+    "major": 6,
+    "minor": 1,
+    "tiny": 3
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 8,
+    "reviewsReceived": 9,
     "rejectionsReceived": 0,
-    "approvalsReceived": 6,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 7,
+    "staffReviewedPrs": 4,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
       {
         "number": 2197,
         "url": "https://github.com/tscircuit/core/pull/2197",
         "title": "Add schematic box rendering for groups",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1059,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1059",
+        "title": "Add minimum projected rect dimensions to Pipeline6",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -250,18 +311,18 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 3,
+    "approvalsGiven": 4,
     "rejectionsGiven": 0,
-    "prsOpened": 9,
-    "prsMerged": 5,
+    "prsOpened": 10,
+    "prsMerged": 6,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
-    "distinctPrsReviewedAsCodeOwner": 1,
-    "score": 14,
+    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedAsCodeOwner": 2,
+    "score": 20,
     "stars": "⭐⭐",
-    "major": 2,
+    "major": 3,
     "minor": 1,
     "tiny": 2
   },
@@ -289,24 +350,24 @@
     "stars": ""
   },
   "imrishabh18": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 5,
     "rejectionsReceived": 0,
-    "approvalsReceived": 3,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 4,
+    "staffReviewedPrs": 4,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 3,
+    "staffApprovalsReceived": 4,
     "staffReviewedPrLinks": [
       {
-        "number": 2202,
-        "url": "https://github.com/tscircuit/core/pull/2202",
-        "title": "Add `supplier_footprint_mismatch_warning` when footprint string does not match with the jlcpcb footprint",
+        "number": 2206,
+        "url": "https://github.com/tscircuit/core/pull/2206",
+        "title": "Fix: Pass the minTraceWidth to the SRJ",
         "staffApprovals": 1,
         "staffRejections": 0
       },
       {
-        "number": 159,
-        "url": "https://github.com/tscircuit/circuit-json-to-lbrn/pull/159",
-        "title": "Add the Hole Punch Top and Hole Punch Bottom layers",
+        "number": 2202,
+        "url": "https://github.com/tscircuit/core/pull/2202",
+        "title": "Add `supplier_footprint_mismatch_warning` when footprint string does not match with the jlcpcb footprint",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -316,35 +377,50 @@
         "title": "Add a Reflected Bottom Board Cut Layer",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 159,
+        "url": "https://github.com/tscircuit/circuit-json-to-lbrn/pull/159",
+        "title": "Add the Hole Punch Top and Hole Punch Bottom layers",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 0,
+    "approvalsGiven": 5,
     "rejectionsGiven": 0,
-    "prsOpened": 13,
-    "prsMerged": 12,
+    "prsOpened": 18,
+    "prsMerged": 17,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 0,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 21,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/tscircuit.com",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "score": 33,
     "stars": "⭐⭐",
-    "major": 1,
-    "minor": 6,
-    "tiny": 5
+    "major": 3,
+    "minor": 7,
+    "tiny": 6
   },
   "mohan-bee": {
-    "reviewsReceived": 3,
+    "reviewsReceived": 10,
     "rejectionsReceived": 0,
-    "approvalsReceived": 2,
+    "approvalsReceived": 4,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
-    "prsMerged": 1,
+    "prsOpened": 6,
+    "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -353,11 +429,12 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 1,
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 2,
     "stars": "",
     "major": 0,
     "minor": 0,
-    "tiny": 1
+    "tiny": 2
   },
   "orbitwebsites-cloud": {
     "reviewsReceived": 2,
@@ -383,7 +460,34 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 5,
+    "reviewsReceived": 6,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 1,
+    "rejectionsGiven": 0,
+    "prsOpened": 6,
+    "prsMerged": 3,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 1,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 8,
+    "stars": "⭐",
+    "major": 1,
+    "minor": 1,
+    "tiny": 1
+  },
+  "selenaalpha77-sketch": {
+    "reviewsReceived": 0,
     "rejectionsReceived": 0,
     "approvalsReceived": 0,
     "staffReviewedPrs": 0,
@@ -392,8 +496,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 5,
-    "prsMerged": 3,
+    "prsOpened": 4,
+    "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -402,33 +506,86 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 7,
-    "stars": "⭐",
-    "major": 1,
-    "minor": 1,
-    "tiny": 1
+    "score": 0,
+    "stars": ""
   },
   "seveibar": {
-    "reviewsReceived": 0,
+    "reviewsReceived": 2,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
+    "approvalsReceived": 2,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 15,
+    "approvalsGiven": 27,
+    "rejectionsGiven": 1,
+    "prsOpened": 6,
+    "prsMerged": 4,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 24,
+    "distinctPrsReviewedAsCodeOwner": 2,
+    "score": 12,
+    "stars": "⭐⭐",
+    "major": 2,
+    "minor": 1,
+    "tiny": 1
+  },
+  "techmannih": {
+    "reviewsReceived": 10,
+    "rejectionsReceived": 1,
+    "approvalsReceived": 1,
+    "staffReviewedPrs": 2,
+    "staffRejectionsReceived": 1,
+    "staffApprovalsReceived": 1,
+    "staffReviewedPrLinks": [
+      {
+        "number": 612,
+        "url": "https://github.com/tscircuit/footprinter/pull/612",
+        "title": "fix: align passive silkscreen geometry with KiCad standards",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      },
+      {
+        "number": 67,
+        "url": "https://github.com/tscircuit/kicad-to-circuit-json/pull/67",
+        "title": " add support for pcb copper text",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      }
+    ],
+    "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 2,
+    "prsOpened": 3,
     "prsMerged": 1,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 14,
-    "distinctPrsReviewedAsCodeOwner": 1,
-    "score": 5,
-    "stars": "⭐",
-    "major": 1,
-    "minor": 0,
+    "distinctPrsReviewedNonCodeOwner": 1,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/footprinter",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "repo": "tscircuit/jscad-electronics",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "distinctPrsReviewedAsCodeOwner": 0,
+    "score": 3,
+    "stars": "",
+    "major": 0,
+    "minor": 1,
     "tiny": 0
   },
   "tscircuitbot": {
@@ -441,8 +598,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 106,
-    "prsMerged": 83,
+    "prsOpened": 195,
+    "prsMerged": 164,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -451,10 +608,10 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 14.5,
+    "score": 15,
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 83
+    "tiny": 164
   }
 }
