@@ -17,8 +17,8 @@
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 4,
-    "prsMerged": 1,
+    "prsOpened": 5,
+    "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -66,7 +66,7 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 11,
+    "prsOpened": 13,
     "prsMerged": 0,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -80,12 +80,12 @@
     "stars": ""
   },
   "Abse2001": {
-    "reviewsReceived": 6,
+    "reviewsReceived": 9,
     "rejectionsReceived": 0,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 9,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
+    "staffApprovalsReceived": 2,
     "staffReviewedPrLinks": [
       {
         "number": 158,
@@ -93,16 +93,23 @@
         "title": "Fix edge-crossing PCB holes in board mesh rendering",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 1,
+        "url": "https://github.com/tscircuit/dataset-srj13/pull/1",
+        "title": "Refactor SRJ dataset generation to use core converter and primitive obstacle modeling",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 7,
-    "prsMerged": 5,
+    "prsOpened": 11,
+    "prsMerged": 11,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
@@ -122,19 +129,19 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 13,
+    "score": 28,
     "stars": "⭐⭐",
-    "major": 2,
-    "minor": 0,
-    "tiny": 3
+    "major": 4,
+    "minor": 2,
+    "tiny": 5
   },
   "AnasSarkiz": {
-    "reviewsReceived": 5,
+    "reviewsReceived": 7,
     "rejectionsReceived": 0,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 1,
+    "approvalsReceived": 7,
+    "staffReviewedPrs": 2,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 1,
+    "staffApprovalsReceived": 2,
     "staffReviewedPrLinks": [
       {
         "number": 42,
@@ -142,35 +149,63 @@
         "title": "Eliminate Copper Pour Boolean Failures with Robust Manifold Geometry Engine",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 33,
+        "url": "https://github.com/tscircuit/lbrnts/pull/33",
+        "title": " Match LightBurn SVG previews for scan/fill layers",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
-    "approvalsGiven": 2,
+    "approvalsGiven": 3,
     "rejectionsGiven": 0,
-    "prsOpened": 7,
-    "prsMerged": 6,
+    "prsOpened": 10,
+    "prsMerged": 10,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 16,
+    "reposOwned": [
+      {
+        "repo": "tscircuit/circuit-json-to-lbrn",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "repo": "tscircuit/pcbburn.com",
+        "paths": [
+          "*"
+        ]
+      }
+    ],
+    "score": 27,
     "stars": "⭐⭐",
-    "major": 2,
+    "major": 4,
     "minor": 2,
-    "tiny": 2
+    "tiny": 4
   },
   "MustafaMulla29": {
-    "reviewsReceived": 11,
+    "reviewsReceived": 16,
     "rejectionsReceived": 0,
-    "approvalsReceived": 5,
-    "staffReviewedPrs": 3,
+    "approvalsReceived": 8,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 2,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 6,
     "staffReviewedPrLinks": [
+      {
+        "number": 2213,
+        "url": "https://github.com/tscircuit/core/pull/2213",
+        "title": "chore: update calculate-packing dep",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 3306,
         "url": "https://github.com/tscircuit/tscircuit.com/pull/3306",
@@ -186,6 +221,13 @@
         "staffRejections": 1
       },
       {
+        "number": 91,
+        "url": "https://github.com/tscircuit/calculate-packing/pull/91",
+        "title": "Add courtyard support for component collision boundaries",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
         "number": 256,
         "url": "https://github.com/tscircuit/circuit-json-to-kicad/pull/256",
         "title": "Implement kicadSchematicScaleFactor to scale all schematic symbols and wiring in KiCad export",
@@ -193,32 +235,32 @@
         "staffRejections": 1
       }
     ],
-    "approvalsGiven": 1,
+    "approvalsGiven": 2,
     "rejectionsGiven": 0,
-    "prsOpened": 16,
-    "prsMerged": 13,
+    "prsOpened": 22,
+    "prsMerged": 19,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 1,
+    "distinctPrsReviewedNonCodeOwner": 2,
     "discussionComments": 0,
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 19,
+    "score": 27,
     "stars": "⭐⭐",
-    "major": 0,
+    "major": 1,
     "minor": 5,
-    "tiny": 8
+    "tiny": 13
   },
   "Sang-it": {
-    "reviewsReceived": 10,
+    "reviewsReceived": 12,
     "rejectionsReceived": 0,
-    "approvalsReceived": 9,
-    "staffReviewedPrs": 5,
+    "approvalsReceived": 11,
+    "staffReviewedPrs": 7,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 5,
+    "staffApprovalsReceived": 7,
     "staffReviewedPrLinks": [
       {
         "number": 2201,
@@ -254,12 +296,26 @@
         "title": "enforce availableNetOrientation",
         "staffApprovals": 1,
         "staffRejections": 0
+      },
+      {
+        "number": 10,
+        "url": "https://github.com/tscircuit/circuit-json-schematic-placement-analysis/pull/10",
+        "title": "add analysis for pin to edge width distance",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 9,
+        "url": "https://github.com/tscircuit/circuit-json-schematic-placement-analysis/pull/9",
+        "title": "flag schematic-box-sizing too wide / folder restructure",
+        "staffApprovals": 1,
+        "staffRejections": 0
       }
     ],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 15,
-    "prsMerged": 10,
+    "prsOpened": 20,
+    "prsMerged": 15,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -268,19 +324,19 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 28.5,
+    "score": 39,
     "stars": "⭐⭐",
-    "major": 6,
+    "major": 8,
     "minor": 1,
-    "tiny": 3
+    "tiny": 6
   },
   "ShiboSoftwareDev": {
-    "reviewsReceived": 9,
+    "reviewsReceived": 10,
     "rejectionsReceived": 0,
-    "approvalsReceived": 7,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 8,
+    "staffReviewedPrs": 5,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 5,
     "staffReviewedPrLinks": [
       {
         "number": 2197,
@@ -293,6 +349,13 @@
         "number": 1059,
         "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1059",
         "title": "Add minimum projected rect dimensions to Pipeline6",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 5,
+        "url": "https://github.com/tscircuit/pcb-poly-hyper-graph/pull/5",
+        "title": "Prevent free/free ports across occupied obstacle boundaries",
         "staffApprovals": 1,
         "staffRejections": 0
       },
@@ -311,20 +374,43 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 4,
+    "approvalsGiven": 5,
     "rejectionsGiven": 0,
-    "prsOpened": 10,
+    "prsOpened": 11,
     "prsMerged": 6,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 2,
+    "distinctPrsReviewedNonCodeOwner": 3,
     "distinctPrsReviewedAsCodeOwner": 2,
-    "score": 20,
+    "score": 21,
     "stars": "⭐⭐",
     "major": 3,
     "minor": 1,
     "tiny": 2
+  },
+  "alchemistlethal-a11y": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
   },
   "billwestrup": {
     "reviewsReceived": 0,
@@ -349,14 +435,51 @@
     "score": 0,
     "stars": ""
   },
-  "imrishabh18": {
-    "reviewsReceived": 5,
+  "felixbeyer99-design": {
+    "reviewsReceived": 0,
     "rejectionsReceived": 0,
-    "approvalsReceived": 4,
-    "staffReviewedPrs": 4,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 4,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
+  },
+  "imrishabh18": {
+    "reviewsReceived": 12,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 9,
+    "staffReviewedPrs": 7,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 8,
     "staffReviewedPrLinks": [
+      {
+        "number": 571,
+        "url": "https://github.com/tscircuit/circuit-json/pull/571",
+        "title": "Add same-net and different-net trace-edge clearance DRC properties",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 2212,
+        "url": "https://github.com/tscircuit/core/pull/2212",
+        "title": "`minTraceToPadEdgeClearance` should be present in the SRJ output",
+        "staffApprovals": 1,
+        "staffRejections": 0
+      },
       {
         "number": 2206,
         "url": "https://github.com/tscircuit/core/pull/2206",
@@ -369,6 +492,13 @@
         "url": "https://github.com/tscircuit/core/pull/2202",
         "title": "Add `supplier_footprint_mismatch_warning` when footprint string does not match with the jlcpcb footprint",
         "staffApprovals": 1,
+        "staffRejections": 0
+      },
+      {
+        "number": 1074,
+        "url": "https://github.com/tscircuit/tscircuit-autorouter/pull/1074",
+        "title": "Add support for `minTraceToPadEdgeClearance` to be passed to the repair03 solver",
+        "staffApprovals": 2,
         "staffRejections": 0
       },
       {
@@ -386,14 +516,18 @@
         "staffRejections": 0
       }
     ],
-    "approvalsGiven": 5,
+    "approvalsGiven": 7,
     "rejectionsGiven": 0,
-    "prsOpened": 18,
-    "prsMerged": 17,
+    "prsOpened": 30,
+    "prsMerged": 29,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 3,
+    "distinctPrsReviewedNonCodeOwner": 4,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
     "reposOwned": [
       {
@@ -403,23 +537,31 @@
         ]
       }
     ],
-    "score": 33,
-    "stars": "⭐⭐",
-    "major": 3,
-    "minor": 7,
-    "tiny": 6
+    "score": 59,
+    "stars": "⭐⭐⭐",
+    "major": 6,
+    "minor": 11,
+    "tiny": 12
   },
   "mohan-bee": {
-    "reviewsReceived": 10,
-    "rejectionsReceived": 0,
+    "reviewsReceived": 14,
+    "rejectionsReceived": 1,
     "approvalsReceived": 4,
-    "staffReviewedPrs": 0,
-    "staffRejectionsReceived": 0,
+    "staffReviewedPrs": 1,
+    "staffRejectionsReceived": 1,
     "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
-    "approvalsGiven": 0,
+    "staffReviewedPrLinks": [
+      {
+        "number": 47,
+        "url": "https://github.com/tscircuit/copper-pour-solver/pull/47",
+        "title": "Fix Invalid URL for WASM initialization in sandboxed environments",
+        "staffApprovals": 0,
+        "staffRejections": 1
+      }
+    ],
+    "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 6,
+    "prsOpened": 7,
     "prsMerged": 2,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
@@ -460,17 +602,17 @@
     "stars": ""
   },
   "rushabhcodes": {
-    "reviewsReceived": 6,
+    "reviewsReceived": 11,
     "rejectionsReceived": 0,
-    "approvalsReceived": 0,
+    "approvalsReceived": 2,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
     "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 6,
-    "prsMerged": 3,
+    "prsOpened": 8,
+    "prsMerged": 4,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -480,62 +622,39 @@
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 8,
+    "score": 9,
     "stars": "⭐",
     "major": 1,
     "minor": 1,
-    "tiny": 1
-  },
-  "selenaalpha77-sketch": {
-    "reviewsReceived": 0,
-    "rejectionsReceived": 0,
-    "approvalsReceived": 0,
-    "staffReviewedPrs": 0,
-    "staffRejectionsReceived": 0,
-    "staffApprovalsReceived": 0,
-    "staffReviewedPrLinks": [],
-    "approvalsGiven": 0,
-    "rejectionsGiven": 0,
-    "prsOpened": 4,
-    "prsMerged": 0,
-    "issuesCreated": 0,
-    "bountiedIssuesCount": 0,
-    "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 0,
-    "discussionComments": 0,
-    "discussionNormalComments": 0,
-    "discussionGreatInformativeComments": 0,
-    "discussionIncredibleComments": 0,
-    "score": 0,
-    "stars": ""
+    "tiny": 2
   },
   "seveibar": {
-    "reviewsReceived": 2,
+    "reviewsReceived": 5,
     "rejectionsReceived": 0,
-    "approvalsReceived": 2,
+    "approvalsReceived": 4,
     "staffReviewedPrs": 0,
     "staffRejectionsReceived": 0,
     "staffApprovalsReceived": 0,
     "staffReviewedPrLinks": [],
-    "approvalsGiven": 27,
-    "rejectionsGiven": 1,
-    "prsOpened": 6,
-    "prsMerged": 4,
+    "approvalsGiven": 43,
+    "rejectionsGiven": 2,
+    "prsOpened": 9,
+    "prsMerged": 5,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
-    "distinctPrsReviewedNonCodeOwner": 24,
-    "distinctPrsReviewedAsCodeOwner": 2,
-    "score": 12,
+    "distinctPrsReviewedNonCodeOwner": 37,
+    "distinctPrsReviewedAsCodeOwner": 4,
+    "score": 14,
     "stars": "⭐⭐",
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "tiny": 1
   },
   "techmannih": {
-    "reviewsReceived": 10,
+    "reviewsReceived": 11,
     "rejectionsReceived": 1,
-    "approvalsReceived": 1,
+    "approvalsReceived": 3,
     "staffReviewedPrs": 2,
     "staffRejectionsReceived": 1,
     "staffApprovalsReceived": 1,
@@ -557,8 +676,8 @@
     ],
     "approvalsGiven": 1,
     "rejectionsGiven": 0,
-    "prsOpened": 3,
-    "prsMerged": 1,
+    "prsOpened": 6,
+    "prsMerged": 3,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -582,11 +701,11 @@
       }
     ],
     "distinctPrsReviewedAsCodeOwner": 0,
-    "score": 3,
-    "stars": "",
+    "score": 5,
+    "stars": "⭐",
     "major": 0,
     "minor": 1,
-    "tiny": 0
+    "tiny": 2
   },
   "tscircuitbot": {
     "reviewsReceived": 0,
@@ -598,8 +717,8 @@
     "staffReviewedPrLinks": [],
     "approvalsGiven": 0,
     "rejectionsGiven": 0,
-    "prsOpened": 195,
-    "prsMerged": 164,
+    "prsOpened": 261,
+    "prsMerged": 217,
     "issuesCreated": 0,
     "bountiedIssuesCount": 0,
     "bountiedIssuesTotal": 0,
@@ -608,10 +727,33 @@
     "discussionNormalComments": 0,
     "discussionGreatInformativeComments": 0,
     "discussionIncredibleComments": 0,
-    "score": 15,
+    "score": 15.5,
     "stars": "⭐⭐",
     "major": 0,
     "minor": 0,
-    "tiny": 164
+    "tiny": 217
+  },
+  "worthyfarmstead-rgb": {
+    "reviewsReceived": 0,
+    "rejectionsReceived": 0,
+    "approvalsReceived": 0,
+    "staffReviewedPrs": 0,
+    "staffRejectionsReceived": 0,
+    "staffApprovalsReceived": 0,
+    "staffReviewedPrLinks": [],
+    "approvalsGiven": 0,
+    "rejectionsGiven": 0,
+    "prsOpened": 1,
+    "prsMerged": 0,
+    "issuesCreated": 0,
+    "bountiedIssuesCount": 0,
+    "bountiedIssuesTotal": 0,
+    "distinctPrsReviewedNonCodeOwner": 0,
+    "discussionComments": 0,
+    "discussionNormalComments": 0,
+    "discussionGreatInformativeComments": 0,
+    "discussionIncredibleComments": 0,
+    "score": 0,
+    "stars": ""
   }
 }
